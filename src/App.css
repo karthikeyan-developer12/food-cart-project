@@ -1,0 +1,22 @@
+.nav{
+    height:fit-content;
+    width:100%;
+    background-color: rgb(7, 7, 7);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+
+
+}
+ul{
+    display: flex;
+    gap:25px;
+    margin-right:10px ;
+    list-style: none;
+}
+h4{
+    margin-left:10px;
+}
